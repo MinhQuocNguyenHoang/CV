@@ -1,4 +1,3 @@
-![My CV_png](./NGUYENHOANGMINHQUOC_FIRMWAREEMBEDDEDINTERN_CV-1.png)
-![My CV_png](./NGUYENHOANGMINHQUOC_FIRMWAREEMBEDDEDINTERN_CV-2.png)
+![My CV_png](./NguyenHoangMinhQuoc_EMBEDDEDFIRMWAREINTERN_.pdf)
 ![Point table](./bangdiem.jpg)
 ![Point table](./bangdiem2.jpg)
